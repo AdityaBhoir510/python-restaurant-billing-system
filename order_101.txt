@@ -1,0 +1,11 @@
+ Code Restaurant 
+ Welcome
+
+ Order no: 101 
+
+          item  price  qty  total
+0  veg pulav     300    1    300
+
+ Your total billing amount is Rs. 300 
+
+ Thank you happy eating, Visit again :) 
